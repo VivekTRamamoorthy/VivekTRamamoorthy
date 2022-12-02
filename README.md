@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a PhD candidate in Computer Science at the University of Nottingham
+- I am a PhD candidate in Computer Science at the University of Nottingham having passed my viva and in the thesis correction period.
 - I work on shape optimisation of mechanical structures especially acoustic sound-absorbing materials.
 - My current research interests are metaheuristics, topology optimisation and acoustics.
 - Checkout my homepage at [VivekTRamamoorthy.github.io](https://VivekTRamamoorthy.github.io).
