@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- I am a PhD candidate in Computer Science at the University of Nottingham having passed my viva and in the thesis correction period.
-- I work on shape optimisation of mechanical structures especially acoustic sound-absorbing materials.
+- I am a recent PhD in Computer Science from the University of Nottingham.
+- I work on shape optimisation of mechanical structures, predominantly acoustic sound-absorbing materials.
 - My current research interests are metaheuristics, topology optimisation and acoustics.
-- Checkout my homepage at [VivekTRamamoorthy.github.io](https://VivekTRamamoorthy.github.io).
+- Check out my homepage at [VivekTRamamoorthy.github.io](https://VivekTRamamoorthy.github.io).
 
 
 
@@ -13,9 +13,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=VivekTRamamoorthy&theme=highcontrast&show_icons=true&count_private=true)
 
 
-I enjoy the interactivity that web projects allow and hence, most of my recent projects have been web based. 
+I enjoy the interactivity that web projects allow; hence, most of my recent projects have been web-based. 
 
-Here are some highlights if you are interested:
+Here are some highlights:
 
  - [MatlabJS: A Javascript mini library for Matlab users](https://www.github.com/VivekTRamamoorthy/MatlabJS)
       - A list of utility functions written in Javascript to help code conversion from Matlab 
@@ -25,6 +25,6 @@ Here are some highlights if you are interested:
  - [Topology optimisation web app](https://www.github.com/VivekTRamamoorthy/TopOptWeb)
       - An interactive topology optimisation based on the SIMP algorithm.
  - [Damping ratio demo](https://www.github.com/VivekTRamamoorthy/SpringMassDamping)
-      - An interactive demo for understanding the damping ratio in vibrating spring mass systems.
+      - An interactive demo for understanding the damping ratio in vibrating spring-mass systems.
       
 
