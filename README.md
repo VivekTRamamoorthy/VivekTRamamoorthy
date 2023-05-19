@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- I am a recent PhD in Computer Science from the University of Nottingham's Computational Optimisation and Learning (COL) Lab.
-- I work on shape and topology optimisation algorithms for lightweight acoustic sound-absorbing structures.
-- My current research interests are metaheuristics, topology optimisation and acoustics.
+- I am a Lecturer in the School of Physics, Engingeering and Computer Science at the University of Hertfordshire.
+- My current interests are metaheuristics, structural topology optimisation and acoustics.
 - Check out my homepage at [VivekTRamamoorthy.github.io](https://VivekTRamamoorthy.github.io).
 
 
@@ -13,7 +12,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=VivekTRamamoorthy&theme=highcontrast&show_icons=true&count_private=true)
 
 
-I enjoy the interactivity that web projects allow, and hence, most of my recent projects have been web-based. 
+I enjoy the interactivity that web projects allow, and hence, many of my recent projects are web-based. 
 
 Here are some highlights:
 
